@@ -1,0 +1,53 @@
+nav{
+  background-color: black;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  }
+  h1{
+    color: white;
+  }
+  li{
+    color: grey;
+    display: inline;
+  }
+  li:hover{
+    color: white;
+  }
+  img{
+    width: 300px;
+    height: 273px;
+  }
+  .zero{
+    display: inline-block;
+    border-style: solid;
+    width:300px;
+    padding-bottom: 5px;;
+  }
+  .one{
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    height: 30px;width:100px;
+  }
+  .one:hover{
+    background-color: gainsboro;
+    color: black;
+  }
+  
+  form{
+    background-color: black;  
+    padding: 1px;
+    margin: 10px;
+  }
+  table
+  {
+    color: white;
+    padding: 0%;
+  }
+  button{
+    background-color:yellow;
+    text-align: center;
+    width: 400px;
+  }
+  
